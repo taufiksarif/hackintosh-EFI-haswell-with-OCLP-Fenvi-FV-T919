@@ -1,12 +1,12 @@
 # hackintosh-EFI-haswell-with-OCLP-Fenvi-FV-T919
-Hackintosh Desktop Sequoia i7-4790
-Here is my motherboard specification:<br>
+Hackintosh Desktop Sequoia i7-4790<br>
+Here is my PC specification:<br>
 
-Brand: JINGSHA B85M-I<br>
-CPU socket : LGA 1150<br>
+Motherboard: JINGSHA B85M-I<br>
 Processor : i7-4790<br>
 Memory : 2* DDR3 1600MHz<br>
-Graphic card using : Yeston AMD RX 550 4G<br>
+Graphic card : Yeston AMD RX 550 4G<br>
+Wireless Card : Fenvi-FV-T919<br>
 Audio : Realtek Audio Codec ALC897<br>
 everythhing works perfectly<br>
 
