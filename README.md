@@ -9,7 +9,9 @@ Graphic card : Yeston AMD RX 550 4G<br>
 Wireless Card : Fenvi-FV-T919<br>
 Audio : Realtek Audio Codec ALC897<br>
 everythhing works perfectly<br>
-
+<br>
+[i'm using chris1111 themes for this EFI](https://htmlpreview.github.io/?https://github.com/chris1111/My-Simple-OC-Themes/blob/master/My%20Simple%20Theme%20OpenCore.html)<br>
+<br>
 ![About](https://github.com/user-attachments/assets/47818df9-31bf-4f65-ac69-cb980017648b)
 <br>
 <br>
